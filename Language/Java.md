@@ -3,15 +3,15 @@
 
 ## Table of context
 
-1. [Roadmap](#roadmap-span-id"roadmap"span)
-2. [Resources For Learning](#resources-for-learning-span-id"resources"span)
-3. [Cheatsheet](#cheatsheet-span-id"cheatsheet"span)
-4. [Interview Questions](#interview-questions-span-id"interviewquestion"span)
+1. [Roadmap](#roadmap)
+2. [Resources For Learning](#resources-for-learning)
+3. [Cheatsheet](#cheatsheet)
+4. [Interview Questions](#interview-questions)
 
 
 <!-- Roadmap for  java (tablecontext-1) -->
 
-### Roadmap <span id="roadmap"><span>
+### Roadmap 
 
 | **Sr No** | **Author/source** | **Link**   | **Type** |
 |-----------|-------------------|------------|----------|
@@ -20,7 +20,7 @@
 
 <!-- Resources For Learning of java (tablecontext-2) -->
 
-### Resources For Learning <span id="resources"><span>
+### Resources For Learning 
 
 | **Sr No** | **Author/source** | **Link**   | **Type** |
 |-----------|-------------------|------------|----------|
@@ -29,7 +29,7 @@
 
 <!-- Cheatsheet of java (tablecontext-3) -->
 
-### CheatSheet <span id="cheatsheet"><span>
+### CheatSheet 
 
 | **Sr No** | **Author/source**   | **Link**   | **Type**      |
 |-----------|---------------------|------------|---------------|
@@ -40,7 +40,7 @@
 
 <!-- Interview Questions of java (tablecontext-4) -->
 
-### Interview Questions <span id="interviewquestion"><span>
+### Interview Questions 
 
 | **Sr No** | **Author/source** | **Link**   | **Type**      |
 |-----------|-------------------|------------|---------------|
